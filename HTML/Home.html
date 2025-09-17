@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home Page</title>
+  <style>
+    *{margin: 0px;}
+
+    .container{
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .header{
+      background-color: rgb(5, 53, 135);
+      color: beige;
+      width: 100%;
+      height: 10%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+
+    .nav{
+      background-color: rgb(13, 10, 78);
+      color: beige;
+      width: 100%;
+      height: 10%;
+      display: flex;
+      align-items: center;
+    }
+
+    .nav ul li {
+      list-style-type: none;
+      display: inline;
+      padding: 20px 70px 20px 70px;
+    }
+
+
+    .footer{
+      background-color: rgb(58, 120, 128);
+      border: 2px solid red;
+      width: 100%;
+      height: 10%;
+    }
+
+    .menu{
+      background-color: rgb(58, 120, 128);
+      border: 2px solid red;
+      width: 100%;
+      height: 70%;
+      display: flex;
+      flex-direction: row;
+    }
+
+    .sidebar{
+      background-color: rgb(58, 120, 128);
+      border: 2px solid red;
+      width: 30%;
+      height: 100%;
+    }
+
+    .content{
+      background-color: rgb(58, 120, 128);
+      border: 2px solid red;
+      width: 70%;
+      height: 100%;
+    }
+
+
+    @media (max-width : 600px){
+      .container{
+        flex-wrap: wrap;
+        background-color: aqua;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">ABES GHAZIABAD</div>
+    <div class="nav">
+      <ul>
+        <li><a href="https://abes.ac.in/" target="fri">About Us</a></li>
+        <li><a href="ContactUs.html" target="fri">Contact Us</a></li>
+        <li><a href="register.html" target="fri">Register</a></li>
+        <li><a href="login.html" target="fri">Login</a></li>
+      </ul>
+    </div>
+    <div class="menu">
+      <div class="sidebar">box 4</div>
+      <div class="content">
+        <iframe name="fri" height="500px" width="500px" frameborder="0"></iframe>
+      </div>
+    </div>
+    <div class="footer">@copy 2025 ABES GHAZIABAD</div>
+  </div>
+</body>
+</html>
