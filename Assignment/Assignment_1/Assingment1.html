@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .card{
+      margin-left: 27.5%;
+      margin-right: 30%;
+      background-color: blanchedalmond;
+    }
+    nav{
+      display: flex;
+      align-items: center;
+      background-color: rgb(37, 36, 36);
+      color: white;
+      justify-content: space-around;
+    }
+
+    #value{
+      display: flex;
+      justify-content: center;
+      font-weight: 800;
+      font-size: xx-large
+    }
+    .plus{
+      margin-left: 46%;
+    }
+
+    img{
+      object-fit: cover;
+    }
+
+    .logo{
+      border-radius: 250px;
+      background-color: brown;
+    }
+    
+  </style>
+</head>
+<body>
+  <div class="card">
+    <nav>
+      <h1 class="logo">LOGO</h1>
+      <p>COUNTER APP</p>
+    </nav>
+    <p id="value">0</p>
+    <button class="plus" onclick="increment()">+</button>
+    <button class="minus" onclick="decrement()">-</button>
+    <hr style="background-color: black;">
+     <h1>Image Gallery</h1>
+      </header>
+      <img style="width: 40rem; height: 20rem" />
+      <button onclick="changeImage()">Change Image</button>
+  </div>
+  
+  <script>
+    const value = document.querySelector("#value");
+    let count = 0;
+    function Update(){
+      if(count === 5) value.style.color = "red";
+      else value.style.color = "black";
+      value.innerText = count; 
+    }
+    function increment(){
+      if(count < 10){
+        count++;
+      }
+      else{
+        alert("Maximum Limit");
+      }
+      Update();
+    }
+    function decrement(){
+      if(count > 0){
+        count--;
+      }
+      else{
+        alert("Minimum Limit");
+      }
+      Update();
+    }
+
+      const imageContainer = document.querySelector("img");
+      const images = [
+        "Book1.jpg",
+        "Book2.jfif",
+        "Book3.jfif",
+      ];
+      let idx = 0;
+
+      imageContainer.src = images[0];
+
+      function changeImage() {
+        idx = (idx + 1) % images.length;
+        imageContainer.src = images[idx];
+      }
+  </script>
+</body>
+</html>
