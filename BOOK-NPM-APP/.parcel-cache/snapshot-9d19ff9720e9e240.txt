@@ -1,4 +1,4 @@
-3614
+3615
 104C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js134062025755909727 0
 68C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\term-size134062025615601275 1
 96C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@swc\helpers\_\_defaults\package.json134062025623436966 0
@@ -12,7 +12,7 @@
 114C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt134062025621822439 0
 94C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\reporter-dev-server\LICENSE134062025784395215 0
 55C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\Book1.jpg133754339660000000 0
-50C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist134062033234045908 1
+50C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist134062038131400432 1
 101C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\caniuse-lite\data\features\imagecapture.js134062025626760974 0
 100C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\react\cjs\react-jsx-runtime.production.js134062012994957549 0
 110C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\caniuse-lite\data\features\subresource-integrity.js134062025632653693 0
@@ -35,7 +35,7 @@
 100C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\core\lib\requests\AssetRequest.js134062025827205247 0
 71C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\browserslist134062025617343897 1
 100C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\optimizer-css\src\CSSOptimizer.js134062025741498118 0
-55C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\index.jsx134062032460933646 0
+55C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\index.jsx134062038127279356 0
 111C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\caniuse-lite\data\features\css-boxdecorationbreak.js134062025620901386 0
 76C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\lmdb\node_modules134062025611182368 1
 69C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\nullthrows134062025617228796 1
@@ -845,7 +845,7 @@
 79C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\json5\lib\index.d.ts134062025615860059 0
 104C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\caniuse-lite\data\features\document-policy.js134062025624354974 0
 88C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\ordered-binary\dist\index.cjs134062025613241655 0
-80C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist\BOOK-NPM-APP.aa436662.css.map134062033234045908 0
+80C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist\BOOK-NPM-APP.aa436662.css.map134062038131203518 0
 85C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\scheduler\unstable_mock.js134062013295306937 0
 111C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js134062025623982598 0
 89C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@swc\helpers\src\_inherits.mjs134062025625967362 0
@@ -3063,7 +3063,7 @@
 90C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\bundler-default\LICENSE134062025798560536 0
 90C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\utils\src\DefaultMap.js134062025822403041 0
 88C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\utils\src\Deferred.js134062025822423165 0
-61C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist\index.html134062033008299462 0
+61C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist\index.html134062037928769217 0
 100C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\utils\src\generateBuildMetrics.js134062025822423165 0
 94C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\utils\src\getCertificate.js134062025822475199 0
 91C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\utils\src\getExisting.js134062025822487816 0
@@ -3457,6 +3457,7 @@
 90C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\core\test\utils.test.js134062025832813015 0
 107C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\core\test\requests\DevDepRequest.test.js134062025828510212 0
 92C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\core\test\fixtures\config134062025826488507 1
+69C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist\Book1.0f6b4162.jpg134062038130988750 0
 106C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\core\test\fixtures\config-node-pipeline134062025826414753 1
 108C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\core\test\fixtures\custom-targets-distdir134062025833145326 1
 99C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\@parcel\core\test\fixtures\default-serve134062025833165401 1
@@ -3610,6 +3611,6 @@
 100C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\.bin\node-gyp-build-optional-packages.cmd134062025904775841 0
 70C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\.bin\parcel134062025904708591 0
 74C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\node_modules\.bin\semver.cmd134062025904775841 0
-75C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist\BOOK-NPM-APP.2002cba6.js134062033008553479 0
-79C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist\BOOK-NPM-APP.2002cba6.js.map134062033008553479 0
-76C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist\BOOK-NPM-APP.aa436662.css134062033234045908 0
+75C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist\BOOK-NPM-APP.2002cba6.js134062038131339675 0
+79C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist\BOOK-NPM-APP.2002cba6.js.map134062038131400432 0
+76C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\dist\BOOK-NPM-APP.aa436662.css134062038130988750 0

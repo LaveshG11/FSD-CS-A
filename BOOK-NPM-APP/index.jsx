@@ -1,5 +1,6 @@
 import REACTDOM from "react-dom/client";
 import "./App.css";
+import Book1 from "./Book1.jpg";
 
 function App(){
   return(
@@ -20,7 +21,7 @@ function App(){
 function Book(){
   return(
     <div className="card">
-      <img src="C:\Users\Lenovo\Desktop\FSD-CS-A\BOOK-NPM-APP\Book1.jpg" width="200px" height = "200" alt="Book Image" />
+      <img src={Book1} width="200px" height = "200" alt="Book Image" />
       <h3>Title: Physics</h3>
       <h4>Price : ₹200</h4>
       <button>Add To Cart</button>

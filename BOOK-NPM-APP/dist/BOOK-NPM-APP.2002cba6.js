@@ -726,6 +726,8 @@ var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
 var _appCss = require("./App.css");
+var _book1Jpg = require("./Book1.jpg");
+var _book1JpgDefault = parcelHelpers.interopDefault(_book1Jpg);
 function App() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
         children: [
@@ -734,22 +736,17 @@ function App() {
                     children: "Book Store"
                 }, void 0, false, {
                     fileName: "index.jsx",
-                    lineNumber: 7,
+                    lineNumber: 8,
                     columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "index.jsx",
-                lineNumber: 7,
+                lineNumber: 8,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "booklist",
                 children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Book, {}, void 0, false, {
-                        fileName: "index.jsx",
-                        lineNumber: 9,
-                        columnNumber: 9
-                    }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Book, {}, void 0, false, {
                         fileName: "index.jsx",
                         lineNumber: 10,
@@ -769,11 +766,16 @@ function App() {
                         fileName: "index.jsx",
                         lineNumber: 13,
                         columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Book, {}, void 0, false, {
+                        fileName: "index.jsx",
+                        lineNumber: 14,
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "index.jsx",
-                lineNumber: 8,
+                lineNumber: 9,
                 columnNumber: 7
             }, this)
         ]
@@ -785,40 +787,40 @@ function Book() {
         className: "card",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                src: "C:\\Users\\Lenovo\\Desktop\\FSD-CS-A\\BOOK-NPM-APP\\Book1.jpg",
+                src: (0, _book1JpgDefault.default),
                 width: "200px",
                 height: "200",
                 alt: "Book Image"
             }, void 0, false, {
                 fileName: "index.jsx",
-                lineNumber: 23,
+                lineNumber: 24,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
                 children: "Title: Physics"
             }, void 0, false, {
                 fileName: "index.jsx",
-                lineNumber: 24,
+                lineNumber: 25,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
                 children: "Price : \u20B9200"
             }, void 0, false, {
                 fileName: "index.jsx",
-                lineNumber: 25,
+                lineNumber: 26,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
                 children: "Add To Cart"
             }, void 0, false, {
                 fileName: "index.jsx",
-                lineNumber: 26,
+                lineNumber: 27,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "index.jsx",
-        lineNumber: 22,
+        lineNumber: 23,
         columnNumber: 5
     }, this);
 }
@@ -827,7 +829,7 @@ const parent = document.getElementById("root");
 const root = (0, _clientDefault.default).createRoot(parent);
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(App, {}, void 0, false, {
     fileName: "index.jsx",
-    lineNumber: 33,
+    lineNumber: 34,
     columnNumber: 13
 }, undefined));
 var _c, _c1;
@@ -839,7 +841,7 @@ $RefreshReg$(_c1, "Book");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","react-dom/client":"hrvwu","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","./App.css":"7g3a6"}],"dVPUn":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","react-dom/client":"hrvwu","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","./App.css":"7g3a6","./Book1.jpg":"72EX0"}],"dVPUn":[function(require,module,exports,__globalThis) {
 'use strict';
 module.exports = require("ee51401569654d91");
 
@@ -19801,6 +19803,6 @@ function $da9882e673ac146b$var$ErrorOverlay() {
     return null;
 }
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"7g3a6":[function() {},{}]},["fgT0v","aiwHB"], "aiwHB", "parcelRequire655a", {}, null, null, "http://localhost:1234")
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"7g3a6":[function() {},{}],"72EX0":[function() {},{}]},["fgT0v","aiwHB"], "aiwHB", "parcelRequire655a", {}, null, null, "http://localhost:1234")
 
 //# sourceMappingURL=BOOK-NPM-APP.2002cba6.js.map
