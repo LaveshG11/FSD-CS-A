@@ -18,7 +18,7 @@ function App() {
           </Route>
           <Route path='/register' element={<h1>Register Here</h1>}/>
           <Route path='/login' element={<h1>Login Here</h1>}/>
-          <Route path='*' element={<h1>404 Error Page</h1>}/>
+          <Route path='*' element={<h1>404 Not Found Error Page</h1>}/>
         </Routes>
       </BrowserRouter>
     </>
